@@ -14,7 +14,3 @@ A fun and engaging **Rush Hour Taxi Game** developed in **C++** using the **GLUT
 - Randomized drop-off locations for replayability.
 - Smooth graphics powered by GLUT.
 - Classic arcade-style taxi driving experience.
-
-## 📝 One-line Description
-
-A C++ taxi simulation game using the GLUT library, where players pick up and drop off passengers at random locations on the map.
